@@ -9,4 +9,5 @@
 * [week 6](week-6.md)
 * [week 7](week-7.md)
 * [week 8](week-8.md)
+* [期中報告](qi-zhong-bao-gao.md)
 
