@@ -7,4 +7,5 @@
 * [week 4](week-4.md)
 * [week 5](week-5.md)
 * [week 6](week-6.md)
+* [week 7](week-7.md)
 
