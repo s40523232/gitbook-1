@@ -11,4 +11,5 @@
 * [week 8](week-8.md)
 * [期中報告](qi-zhong-bao-gao.md)
 * [V-REP模擬](v-repmo-ni.md)
+* [各組頂球機構的位移、速度與加速度分析, 手動運算是否與程式驗算或 V-rep 模擬相符](ge-zu-ding-qiu-ji-gou-de-wei-yi-3001-su-du-yu-jia-su-du-fen-67902c-shou-dong-yun-suan-shi-fou-yu-cheng-shi-yan-suan-huo-v-rep-mo-ni-xiang-fu.md)
 
