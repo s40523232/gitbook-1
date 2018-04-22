@@ -10,4 +10,5 @@
 * [week 7](week-7.md)
 * [week 8](week-8.md)
 * [期中報告](qi-zhong-bao-gao.md)
+* [V-REP模擬](v-repmo-ni.md)
 
