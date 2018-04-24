@@ -1,4 +1,4 @@
-# 主體 {#詳細說明各組如何進行協同設計}
+# [主體](https://cad.onshape.com/documents/fd2e1da5dfaac95517ebe51a/w/8b127e008c97ae8c602e9d9a/e/0c3ae28f4ab9c66e72788354) {#詳細說明各組如何進行協同設計}
 
 ![](/assets/chrome_2018-04-22_18-11-52.png)
 
@@ -40,7 +40,7 @@
 
 ![](/assets/chrome_2018-04-22_18-13-43.png)
 
-### [ONSHAPE](https://cad.onshape.com/documents/fd2e1da5dfaac95517ebe51a/w/8b127e008c97ae8c602e9d9a/e/0c3ae28f4ab9c66e72788354)
+### 
 
 ### 
 
