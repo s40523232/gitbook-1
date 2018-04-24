@@ -15,4 +15,5 @@
 * [詳細說明各組如何進行協同設計](xiang-xi-shuo-ming-ge-zu-ru-he-jin-xing-xie-tong-she-8a082c-ru-he-li-yong-gitbook-github-yu-jin-duan-huo-yun-duan-zhu-ji-zeng-jia-she-ji-liu-cheng-xiao-yi.md)
 * [ONSHAPE零件](onshapeling-jian.md)
 * [CD2018](cd2018.md)
+* [自評成績](zi-ping-cheng-ji.md)
 
