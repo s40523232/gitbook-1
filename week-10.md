@@ -1,7 +1,5 @@
 # 兩段式六連桿提球機構設計與模擬
 
-
-
 ### 下載 Pyslvs:
 
 * ### [http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64\_cdw10.7z](http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z)
@@ -10,4 +8,6 @@
 * ### 各組在 W11 上課前, 必須拍攝利用此一雙階段提球機構, 將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片
 
 ![](/assets/pyslvs-18.4.0.mscv1900-amd64_2018-05-02_10-11-32.png)
+
+![](/assets/2018-05-02_10-21-02.png)
 
