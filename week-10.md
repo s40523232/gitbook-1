@@ -12,6 +12,9 @@
 ![](/assets/2018-05-02_10-21-02.png)
 
 
+影片:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RYyb2r1dVHY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## [頂球機構STL檔](https://github.com/s40523232/cd2018/blob/gh-pages/40523232%20%E9%99%B3%E7%85%9C%E8%92%BC.stl)
 
