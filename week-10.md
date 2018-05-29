@@ -19,7 +19,18 @@
 ## [頂球機構STL檔](https://github.com/s40523232/cd2018/blob/gh-pages/40523232%20%E9%99%B3%E7%85%9C%E8%92%BC.stl)
 
 
-## [頂球機構模擬檔](https://github.com/s40523232/cd2018/blob/gh-pages/%E7%AC%AC3%E7%B5%84%E6%A9%9F%E6%A7%8B%E6%A8%A1%E6%93%AC.pyslvs)
+## [頂球機構pyslvs模擬檔](https://github.com/s40523232/cd2018/blob/gh-pages/%E7%AC%AC3%E7%B5%84%E6%A9%9F%E6%A7%8B%E6%A8%A1%E6%93%AC.pyslvs)
+
+## [頂球機構ttt模擬檔](https://github.com/s40523232/cd2018/blob/gh-pages/%E7%AC%AC3%E7%B5%84%E9%A0%82%E7%90%83%E6%A9%9F%E6%A7%8B.ttt)
+
+
+
+
+
+
+
+
+
 
 
 
