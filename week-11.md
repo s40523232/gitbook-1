@@ -14,6 +14,16 @@
 
 ## [三段式連趕機構STL檔](https://github.com/s40523232/cd2018/blob/gh-pages/40523232%20%E9%99%B3%E7%85%9C%E8%92%BC%20%E4%B8%89%E6%AE%B5%E5%BC%8F%E9%80%A3%E6%A1%BF.stl)
 
+## [三段式連趕機構pyslvs模擬檔](https://github.com/s40523232/cd2018/blob/gh-pages/40523232%20%E9%99%B3%E7%85%9C%E8%92%BC%20%E4%B8%89%E6%AE%B5%E5%BC%8F%E9%A0%82%E7%90%83%E6%A9%9F%E6%A7%8B.pyslvs)
+
+
+
+
+
+
+
+
+
 
 
 
