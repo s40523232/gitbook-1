@@ -16,6 +16,7 @@
 * [ONSHAPE零件與工程圖](onshapeling-jian.md)
 * [CD2018](cd2018.md)
 * [自評成績](zi-ping-cheng-ji.md)
+* [期末報告](qi-mo-bao-gao.md)
 * [week 10](week-10.md)
 * [week 11](week-11.md)
 * [week 12](week-12.md)
