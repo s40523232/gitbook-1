@@ -11,6 +11,9 @@
 
 ![](/assets/2018-06-26_16-45-54.png)
 
+![](/assets/chrome_2018-06-26_16-48-18.png)
+
+![](/assets/chrome_2018-06-26_16-48-29.png)
 
 影片:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CMHy38oILMk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
