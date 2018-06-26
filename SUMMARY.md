@@ -21,4 +21,5 @@
 * [week 12](week-12.md)
 * [week 14](week-14.md)
 * [week 15](week-15.md)
+* [期末自評](qi-mo-zi-ping.md)
 
