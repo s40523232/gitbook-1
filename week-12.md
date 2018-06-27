@@ -15,13 +15,7 @@
 
 ## [50.20兩齒嚙合動態繪圖](https://s40523232.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
 
-
-
-## 40523216 周志翰:
-
-
-
-## 40523213 
+## 
 
 
 
